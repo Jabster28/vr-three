@@ -23,7 +23,7 @@
     "@nuxt/typescript-runtime": "2.0.0",
     "@nuxtjs/axios": "5.12.2",
     "@nuxtjs/pwa": "3.2.2",
-    "core-js": "3.7.0",
+    "core-js": "3.36.1",
     "nuxt": "2.14.7",
     "three": "0.122.0",
     "vuesax": "4.0.1-alpha.25"
